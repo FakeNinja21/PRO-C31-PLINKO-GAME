@@ -1,2 +1,1 @@
-# Project 31 : Plinko
-Project 31 for WhiteHat
+https://fakeninja21.github.io/PRO-C31-PLINKO-GAME/
